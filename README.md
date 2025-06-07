@@ -62,7 +62,7 @@ This project is for educational purposes only. Free to explore, learn, and modif
 ## 👨‍💻 Authors
 
 Group project by [
-  Mahasibil Aly, 
+  Muhammad Mahasibil Aly, 
   Krisna Aji Nugroho, 
   Nirwasita Isna Agata, 
   Keiko Hana Seika, 
